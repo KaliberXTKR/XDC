@@ -13,8 +13,8 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #2780e6;
-  --hover-color: #1e63b3;
+  --main-color: #483248;
+  --hover-color: #5D3FD3;
   --success-color: #43b581;
   --danger-color: #982929;
   /* STATUS COLORS */
@@ -25,7 +25,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 100%;
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
+  --background-image: url(https://cdn.donmai.us/original/2b/e8/__langley_path_to_nowhere_drawn_by_llmia4__2be881be0256bf3147856b348a239b24.png);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
@@ -37,7 +37,7 @@
   --user-modal-attachment: var(--background-attachment);
   --user-modal-filter: var(--background-filter);
   /* HOME ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg);
+  --home-icon: url(https://static.wikia.nocookie.net/path-to-nowhere/images/4/4c/Eternal_Nightmare_Sticker_15.png);
   /* FONTS */
   --main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
   --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
